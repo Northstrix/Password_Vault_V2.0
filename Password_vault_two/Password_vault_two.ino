@@ -1,3 +1,17 @@
+/*
+Password Vault V2.0
+Distributed under the MIT License
+© Copyright Maxim Bortnikov 2021
+For more information please visit
+https://github.com/Northstrix/Password_Vault_V2.0
+Required libraries:
+https://github.com/fcgdam/DES_Library
+https://github.com/peterferrie/serpent
+https://github.com/marvinroger/ESP8266TrueRandom
+https://github.com/adafruit/Adafruit-ST7735-Library
+https://github.com/adafruit/Adafruit-GFX-Library
+*/
+
 #include <DES.h>
 #include <ESP8266TrueRandom.h>
 #include <Adafruit_GFX.h>
